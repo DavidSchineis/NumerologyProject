@@ -1,4 +1,4 @@
-# Numerology Assignment
+# Numerology Project
 >A simple program written in Java and completed as an assignment during my data structures class.
 
 ## Assignment Instructions:
